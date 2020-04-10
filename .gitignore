@@ -1,0 +1,41 @@
+*.class
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+hs_err_pid*
+
+
+# common eclipse and maven files and folders
+target
+.settings
+.cache
+.project
+.classpath
+pom.xml.bak
+.pmd*
+target/
+**/.settings
+**/.project
+**/.classpath
+**/.pmd
+**/.pmdruleset.xml
+**/.checkstyle
+**/.factorypath
+pom.xml.bak
+pom.xml.bkp
+
+.fbprefs
+# temporarily generated files
+bin
+.DS_Store
+*.versionsBackup
+*.versionBackup
+*.bak
+_jni*
