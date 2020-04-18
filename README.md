@@ -2,7 +2,7 @@
 
 Reference: https://www.youtube.com/playlist?list=PLqq-6Pq4lTTZSKAFG6aCDVDP86Qx4lNas
 
-# Running multiple instances of a service in different ports.
+## Running multiple instances of a service in different ports.
 
 Default way to run a service/java main method. It makes use of the default port or the port mentioned in the application.properties file
 - java -jar movie-info-service-1.0.0.SNAPSHOT.jar
