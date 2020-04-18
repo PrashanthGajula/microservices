@@ -1,6 +1,8 @@
 # microservices
 
 Reference: https://www.youtube.com/playlist?list=PLqq-6Pq4lTTZSKAFG6aCDVDP86Qx4lNas
+- Communication and Service Discovery
+- Fault tolerance and resilience
 
 ## Running multiple instances of a service in different ports.
 
