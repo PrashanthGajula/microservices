@@ -1,9 +1,9 @@
 # microservices
 
-Reference: https://www.youtube.com/playlist?list=PLqq-6Pq4lTTZSKAFG6aCDVDP86Qx4lNas 
-Trainer github: https://github.com/koushikkothagal/spring-boot-microservices-workshop
-- Communication and Service Discovery
-- Fault tolerance and resilience
+- Reference: https://www.youtube.com/playlist?list=PLqq-6Pq4lTTZSKAFG6aCDVDP86Qx4lNas 
+- Trainer github: https://github.com/koushikkothagal/spring-boot-microservices-workshop 
+- Level 1 : Communication and Service Discovery
+- Level 2 : Fault tolerance and resilience
 
 ## Running multiple instances of a service in different ports.
 
